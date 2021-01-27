@@ -10,6 +10,7 @@ An assessment and redesign of the user interface of McDonald's self-ordering kio
   <img src="https://github.com/tanxh34/dv2008-interface-design/blob/main/concept-screenshot-initial/Item%20Customisation%204.png" width="150">
   <img src="https://github.com/tanxh34/dv2008-interface-design/blob/main/concept-screenshot-initial/Checkout%201.png" width="150">
   <img src="https://github.com/tanxh34/dv2008-interface-design/blob/main/concept-screenshot-initial/Checkout%202.png" width="150">
+  <img src="https://github.com/tanxh34/dv2008-interface-design/blob/main/concept-screenshot-final/Checkout%201.0%20(filled%20menu).png" width="150">
 </p>
 
 ## Individual Assignment
